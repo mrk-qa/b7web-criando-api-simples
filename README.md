@@ -31,11 +31,11 @@ Durante o curso foram abordados os seguintes tópicos:
 - Deletando uma frase
 - Pegando uma frase aleatória
 
-<img width="800px" align="center" src="https://i.ibb.co/sPskwvg/postman-api-phrase.png">
+<img width="1200px" align="center" src="https://i.ibb.co/sPskwvg/postman-api-phrase.png">
 
 
 
-<img width="800px" align="center" src="https://i.ibb.co/1KbTBS1/postgresql-api.png">
+<img width="1200px" align="center" src="https://i.ibb.co/1KbTBS1/postgresql-api.png">
 
 
 
